@@ -1,4 +1,4 @@
-# Web-Scraping-using-Python
+# Amazon-Web-Scraping-using-Python
 This project contains a Python script to scrape product data from Amazon, save it to a CSV file, and send an email notification if the price drops below a certain threshold.
 
 ### Prerequisites
